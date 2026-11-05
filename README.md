@@ -1,6 +1,8 @@
 # QuoteFlow
 ## Customer requests into reviewed quotations
 
+**Project dates: April 2026 – May 2026**
+
 QuoteFlow is an AI-assisted quotation application developed for my consulting work. It connects request intake, item extraction, catalog matching and quote preparation while keeping a person in control of the final quotation.
 
 **Context:** Individually developed consulting application in active use. Public case-study material must use fictional customer requests and sample catalog data.
